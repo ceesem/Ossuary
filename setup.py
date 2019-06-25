@@ -14,7 +14,7 @@ with open('requirements.txt', 'r') as f:
 setup(
     version='0.0.1',
     name='Ossuary',
-    description='Tools for looking at neuronal skeletons',
+    description='Tools for analyzing neuronal skeletons',
     author='Casey Schneider-Mizell',
     author_email='caseysm@gmail.com',
     url='https://github.com/ceesem/',
